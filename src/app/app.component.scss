@@ -25,11 +25,28 @@
   }
 
   .toolbar img {
-    margin: 0 16px;
+    display: block;
+    margin-left: 60em;
+    margin-right: 50em;
+    margin-top: 0;
+    padding: 0;
+    border: 0;
+    position: absolute;
   }
 
-  
+  #navbar-nav li {
+    display: inline;
+  }
 
-  
+  .navbar-item {
+    margin-left: 8em;
+    margin-right: 8em;
+  }
  
+  #name {
+    margin-left: 0em;
+  }
 
+  #login {
+    margin-right: 0em;
+  }
