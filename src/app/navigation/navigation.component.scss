@@ -26,8 +26,8 @@
 
   .toolbar img {
     display: block;
-    margin-left: 60em;
-    margin-right: 50em;
+    margin-left: 49%;
+    // margin-right: 50%;
     margin-top: 0;
     padding: 0;
     border: 0;
@@ -50,3 +50,28 @@
   #login {
     margin-right: 0em;
   }
+
+  .navbar-link:link{
+    font-size: large;
+    color: white;
+    text-decoration: none;
+  }
+  .navbar-link:visited{
+    font-size: large;
+    color: white;
+    text-decoration: none;
+  }
+  .navbar-link:hover{
+    font-size: large;
+    color: gray;
+    text-decoration: none;
+  }
+  .navbar-link:active{
+    font-size: large;
+    color: black;
+    text-decoration: none;
+  }
+
+
+
+  
