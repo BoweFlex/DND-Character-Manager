@@ -17,16 +17,17 @@
     left: 0;
     right: 0;
     height: 60px;
+    width: 100%;
     display: flex;
     align-items: center;
-    background-color: #911e1e;
+    background-color: #b91a1a;
     color: white;
     font-weight: 600;
   }
 
   .toolbar img {
     display: block;
-    margin-left: 49%;
+    margin-left: 45.25%;
     // margin-right: 50%;
     margin-top: 0;
     padding: 0;
@@ -51,12 +52,7 @@
     margin-right: 0em;
   }
 
-  .navbar-link:link{
-    font-size: large;
-    color: white;
-    text-decoration: none;
-  }
-  .navbar-link:visited{
+  .navbar-link:link, .navbar-link:visited{
     font-size: large;
     color: white;
     text-decoration: none;
