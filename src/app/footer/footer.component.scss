@@ -1,4 +1,21 @@
-h1{
-    color: black;
-    text-align: center;
+#footer {
+    display: inline;
+    width: 100%;
+}
+
+#footer span {
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+    width: 50%
+}
+
+#license-link {
+    display: inline;
+}
+
+#github-links a {
+    display: block;
+    position: relative;
+    left: 80%;
 }
